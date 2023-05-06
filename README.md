@@ -24,24 +24,13 @@ Stock Market Analysis and Prediction is the project related to Exploratory data 
 6. How much value do we put at risk by investing in a particular stock?
 7. How can we attempt to predict future stock behavior?
 
-### Basic Analysis of Stock Information
-In this section we'll go over how to handle requesting stock information with pandas and how to analyze basic attributes of a stock.
-# Workflow
-## Import Python Modules
-1. **yfinance**: 
+## Installs
+1. **yfinance **
 A library to download financial market data from Yahoo Finance.This can be used to download stock market data from India as well as other global market.
-
+pip install yfinance
 2. **pandas_datareader**
-
 Remote data access for pandas to extract data from various Internet sources into a pandas DataFrame.
-
-3. **Load Dataset**
-Download the Historical stock data for specific company listed in the Indian Stock Market using **yfinance** library.
-- Here I extract reliance finace data from last 1 years.
-
-Ex: 1. **IEX**
-- The Investors Exchange (IEX) provides a wide range of data through an API.
-- Historical stock prices are available for up to 15 years.
+pip install pandas-datareader
 
 ## IEXFinance
 An easy-to-use toolkit to obtain data for Stocks, ETFs, Mutual Funds, Forex/Currencies, Options, Commodities, Bonds, and Cryptocurrencies:
@@ -58,6 +47,7 @@ An easy-to-use toolkit to obtain data for Stocks, ETFs, Mutual Funds, Forex/Curr
 - IEX market data & statistics (IEX supported/listed symbols, volume, etc)
 - Social Sentiment and CEO Compensation
 
+## Source 
 - [IEX cloud](https://iexcloud.io/)
 - [documentation](https://iexcloud.io/docs/api/)
 
@@ -67,7 +57,7 @@ A Monte Carlo simulation is an attempt to predict the future many times over. At
 Read more at 
 
 https://www.investopedia.com/articles/07/montecarlo.asp
-
+## Install
 ## Technology:
 - Python 3
   - Numpy
@@ -76,6 +66,6 @@ https://www.investopedia.com/articles/07/montecarlo.asp
   - Seaborn
 
 ## Authors
-
 - [swati khedekar](https://github.com/Swatikhedekar/Stock-Market-Data-Analysis-EDA-project)
-
+## Contact
+khedekarswati75@gmail.com
