@@ -42,6 +42,11 @@ Download the Historical stock data for specific company listed in the Indian Sto
 Ex: 1. **IEX**
 - The Investors Exchange (IEX) provides a wide range of data through an API.
 - Historical stock prices are available for up to 15 years.
+
+## IEXFinance
+- [IEX cloud](https://iexcloud.io/)
+- [documentation](https://iexcloud.io/docs/api/)
+
 ## Statistical Method
 - **Monte Carlo method**
 A Monte Carlo simulation is an attempt to predict the future many times over. At the end of the simulation, thousands or millions of "random trials" produce a distribution of outcomes that can be analyzed.
