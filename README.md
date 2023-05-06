@@ -48,6 +48,14 @@ A Monte Carlo simulation is an attempt to predict the future many times over. At
 Read more at 
 
 https://www.investopedia.com/articles/07/montecarlo.asp
+
+## Technology:
+Python 3
+Numpy
+Pandas
+Matplotlib
+Seaborn
+
 ## Authors
 
 - [swati khedekar](https://github.com/Swatikhedekar/Stock-Market-Data-Analysis-EDA-project)
