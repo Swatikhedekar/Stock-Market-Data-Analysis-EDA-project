@@ -50,11 +50,11 @@ Read more at
 https://www.investopedia.com/articles/07/montecarlo.asp
 
 ## Technology:
-Python 3
-Numpy
-Pandas
-Matplotlib
-Seaborn
+- Python 3
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Seaborn
 
 ## Authors
 
