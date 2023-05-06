@@ -26,9 +26,12 @@ Stock Market Analysis and Prediction is the project related to Exploratory data 
 
 ## Installs
 1. **yfinance **
+
 A library to download financial market data from Yahoo Finance.This can be used to download stock market data from India as well as other global market.
-$ pip install yfinance
+
+$pip install yfinance
 2. **pandas_datareader**
+
 Remote data access for pandas to extract data from various Internet sources into a pandas DataFrame.
 $pip install pandas-datareader
 
